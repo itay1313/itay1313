@@ -6,14 +6,14 @@
 ## I am a developer with a designer's heart!!
 
 - 🔭 I love learning new things every day.
-- 🌱 I’m currently learning everything 🤣
+<!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I am looking to connect with other Developers/ Designers/ Creators
 - 🥅 2021 Goals: Kicking 2021's Ass
-- ⚡ Fun fact: I love to create music and play bass / drums
+- ⚡ My hobbies include making music and playing bass/drums.
 
 ---
 
-  <img align="left" alt="com-mando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&hide_border=true&hide=stars,contribs&theme=dark" />
+  <img align="left" alt="com-mando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&hide_border=true&hide=stars,issues&theme=dark" />
 
 ### Connect with me:
 
