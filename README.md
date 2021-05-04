@@ -6,7 +6,6 @@
 ## I am a developer with a designer's heart!!
 
 - 🔭 I love learning new things every day.
-<!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I am looking to connect with other Developers/ Designers/ Creators
 - 🥅 2021 Goals: Kicking 2021's Ass
 - ⚡ My hobbies include making music and playing bass/drums.
