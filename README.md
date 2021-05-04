@@ -1,7 +1,7 @@
-### Hi there, My name is Itay - aka [website] 👋
+### Hi there, My name is Itay - [website] 👋
 
 [![Website](https://img.shields.io/website?label=com-mando.com&style=for-the-badge&url=https%3A%2F%2Fcom-mando.com)](https://com-mando.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/com-mando?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcom-mando&screen_name=com-mando)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itayhaephrati?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitay1313&screen_name=itay1313)
 
 ## I am a developer with a designer's heart!!
 
