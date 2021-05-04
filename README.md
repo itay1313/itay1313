@@ -12,7 +12,7 @@
 
 ---
 
-  <img align="left" alt="com-mando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&hide_border=true&hide=stars,issues&theme=dark" />
+  <img align="left" alt="com-mando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&hide_border=true&hide=stars,issues&theme=dracula" />
 
 ### Connect with me:
 
