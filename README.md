@@ -11,6 +11,12 @@
 - 🥅 2021 Goals: Kicking 2021's Ass
 - ⚡ Fun fact: I love to create music and play bass / drums
 
+---
+
+  <img align="left" alt="com-mando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&hide_border=true&hide=stars,issues,contribs&theme=dark" />
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="com-mando.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -37,11 +43,6 @@
 
 <br />
 <br />
-
----
-
-  <img align="left" alt="com-mando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&hide_border=true&hide=stars,issues,contribs&theme=dark" />
-
 
 [website]: https://com-mando.com
 [twitter]: http://twitter.com/itayhaephrati
