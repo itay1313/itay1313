@@ -7,7 +7,7 @@
 
 - 🔭 I love learning new things every day.
 - 👯 I am looking to connect with other Developers/ Designers/ Creators
-- 🥅 2021 Goals: Kicking 2021's Ass
+- 🥅 2021 Goals: Kicking 2022's Ass
 - ⚡ My hobbies include making music and playing bass/drums.
 
 ---
