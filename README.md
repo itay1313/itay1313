@@ -1,7 +1,7 @@
 ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br /> My name is Itay - [website]
 
 [![Website](https://img.shields.io/website?label=com-mando.com&style=for-the-badge&url=https%3A%2F%2Fcom-mando.com)](https://com-mando.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/itayhaephrati?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitay1313&screen_name=itayhaephrati)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itaycode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitay1313&screen_name=itaycode)
 
 ## I am a developer with a designer's heart!!
 
