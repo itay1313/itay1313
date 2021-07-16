@@ -44,7 +44,7 @@
 <br />
 
 [website]: https://com-mando.com
-[twitter]: http://twitter.com/itayhaephrati
+[twitter]: http://twitter.com/itaycode
 [instagram]: https://www.instagram.com/commando.code
 [linkedin]: https://www.linkedin.com/in/itayhaephrati
 [behance]: https://www.behance.net/itayha
