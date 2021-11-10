@@ -13,13 +13,12 @@
 ---
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldousalde&show_icons=true&locale=en&layout=compact" alt="aldousalde" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itay1313&show_icons=true&locale=en&layout=compact&theme=dracula" alt="itay1313" />
 <br />
 
 <p align="center"><img width="400"  src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&locale=en" alt="itay1313" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itay1313&" alt="itay1313" /></p>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itay1313&theme=dracula" alt="itay1313" /></p>
 
-  <img align="left" alt="com-mando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&hide_border=true&hide=stars,issues&theme=dracula" />
 
 ### Connect with me:
 
