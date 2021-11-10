@@ -16,17 +16,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itay1313&show_icons=true&locale=en&layout=compact&theme=dracula" alt="itay1313" />
 <br />
 
-<p align="center"><img width="400"  src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&locale=en" alt="itay1313" />
+<p align="center"><img width="400"  src="https://github-readme-stats.vercel.app/api?username=itay1313&show_icons=true&locale=en&theme=dracula" alt="itay1313" />
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=itay1313&theme=dracula" alt="itay1313" /></p>
-
-
-### Connect with me:
-
-[<img align="left" alt="com-mando.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="com-mando | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="com-mando | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="com-mando | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="com-mando | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
 <br /><br /><br /><br /><br />
 
