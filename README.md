@@ -8,26 +8,6 @@
 I'm a curious person. Always trying to learn something new and constantly challenging myself, so I don't get bored. I love to help others and am constantly reading and researching to improve my skills. I have a soft spot for animals especially my Shih-Tzu Maya, and my cat Whisky.
 I also have a great passion for ice bathing, Wim Hof's style.
 
-## My [Arts &] Craft: 
-
- HTML, JS, CSS, Gatsby/ React.
-- CMS/ Headless like; Kontent, Contentful, Prismic, Headless Wordpress and more
-- Graphql
-- Design systems / Tailwind / Styled components, Theme-ui, Bootstrap and more
-- Git
-- Ruby/Jekyll
-- WordPress
-- Accessibility
-- SEO
-- Deployment, platform/ Netlify/ Gatsby cloud/ AWS and more
-- UX and Copywriting
-- Figma/Photoshop/Illustrator/XD/ AE
-
-- 🔭 I love learning new things every day.
-- 👯 I am looking to connect with other Developers/ Designers/ Creators
-- 🥅 2021 Goals: Kicking 2022's Ass
-- ⚡ My hobbies include making music and playing bass/drums.
-
 ---
 
 <br /><br />
@@ -65,7 +45,25 @@ I also have a great passion for ice bathing, Wim Hof's style.
 <br />
 <br />
 
+## My [Arts &] Craft: 
 
+ HTML, JS, CSS, Gatsby/ React.
+- CMS/ Headless like; Kontent, Contentful, Prismic, Headless Wordpress and more
+- Graphql
+- Design systems / Tailwind / Styled components, Theme-ui, Bootstrap and more
+- Git
+- Ruby/Jekyll
+- WordPress
+- Accessibility
+- SEO
+- Deployment, platform/ Netlify/ Gatsby cloud/ AWS and more
+- UX and Copywriting
+- Figma/Photoshop/Illustrator/XD/ AE
+
+- 🔭 I love learning new things every day.
+- 👯 I am looking to connect with other Developers/ Designers/ Creators
+- 🥅 2021 Goals: Kicking 2022's Ass
+- ⚡ My hobbies include making music and playing bass/drums.
 
 
 [website]: https://com-mando.com
