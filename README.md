@@ -11,8 +11,7 @@ I also have a great passion for ice bathing, Wim Hof's style.
 ---
 
 <br /><br />
-<a href="https://app.daily.dev/itaycode"><img src="https://api.daily.dev/devcards/f72bee9fcc20435f9ccb8c03e3238687.png?r=yxq" width="400" alt="itay haephrati's Dev Card"/></a>
-<br /><br />
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itay1313&show_icons=true&locale=en&layout=compact&theme=dracula" alt="itay1313" />
 <br />
 
