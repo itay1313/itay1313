@@ -1,6 +1,6 @@
 ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br /> My name is Itay - [website]
 
-[![Website](https://img.shields.io/website?label=com-mando.com&style=for-the-badge&url=https%3A%2F%2Fcom-mando.com)](https://com-mando.com)
+[![Website](https://img.shields.io/website?label=itaycode.com&style=for-the-badge&url=https%3A%2F%2Fitaycode.com)](https://itaycode.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itaycode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitay1313&screen_name=itaycode)
 
 ## I am a developer with a designer's heart!!
@@ -41,7 +41,7 @@ I also have a great passion for ice bathing, Wim Hof's style.
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 
-[<img align="left" alt="com-mando.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="itaycode.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="com-mando | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="com-mando | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="com-mando | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -71,7 +71,7 @@ I also have a great passion for ice bathing, Wim Hof's style.
 - ⚡ My hobbies include making music and playing bass/drums.
 
 
-[website]: https://com-mando.com
+[website]: https://itaycode.com
 [twitter]: http://twitter.com/itaycode
 [instagram]: https://www.instagram.com/commando.code
 [linkedin]: https://www.linkedin.com/in/itayhaephrati
