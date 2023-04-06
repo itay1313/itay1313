@@ -52,23 +52,12 @@ I also have a great passion for ice bathing, Wim Hof's style.
 
 ## My [Arts &] Craft: 
 
- HTML, JS, CSS, Gatsby/ React.
-- CMS/ Headless like; Kontent, Contentful, Prismic, Headless Wordpress and more
-- Graphql
-- Design systems / Tailwind / Styled components, Theme-ui, Bootstrap and more
-- Git
-- Ruby/Jekyll
-- WordPress
-- Accessibility
-- SEO
-- Deployment, platform/ Netlify/ Gatsby cloud/ AWS and more
-- UX and Copywriting
-- Figma/Photoshop/Illustrator/XD/ AE
+I am a skilled UX Engineer/Design Engineer with expertise in HTML, JS, CSS, Gatsby/React, and other modern technologies. My experience includes working with CMS/Headless systems such as Kontent, Contentful, Prismic, Headless Wordpress, and more. I am also knowledgeable in Graphql and design systems such as Tailwind, Styled components, Theme-ui, Bootstrap, and others. Additionally, I am proficient in Git, Ruby/Jekyll, WordPress, Accessibility, SEO, and deployment platforms like Netlify, Gatsby cloud, AWS, and more.
 
-- 🔭 I love learning new things every day.
-- 👯 I am looking to connect with other Developers/ Designers/ Creators
-- 🥅 2021 Goals: Kicking 2022's Ass
-- ⚡ My hobbies include making music and playing bass/drums.
+In terms of design, I am well-versed in Figma, Photoshop, Illustrator, XD, and AE. I am always eager to learn new things, and my passion for continuous learning is what drives me every day.
+
+I am looking to connect with other Developers, Designers, and Creators. My 2023 goal is to surpass all expectations and make significant contributions to the field. When I'm not coding, you can find me making music and playing bass/drums.
+
 
 
 [website]: https://itaycode.com
